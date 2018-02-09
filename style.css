@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+#main-header {
+    background-image: url(http://www.ebbapettersson.se/Vinter.jpg);
+    height: 100px;
+}
+nav {
+    text-align: center;
+    background-color: black;
+}
+nav a {
+    color: white;
+    margin: 10px;
+}
+#middle {
+     background-color: #000;
+     padding: 10px;
+}
+#middle > h1 {
+    color: white;
+    margin-top: 0;
+    text-align: center;
+}
+#middle p {
+    color: white;
+}
+section > h2 {
+    color: white;
+}
+ul {
+    color: white;
+}
+#middle img {
+    float: right;
+}
